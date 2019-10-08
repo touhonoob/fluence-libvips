@@ -1,0 +1,6 @@
+[submodule "libvips"]
+	path = libvips
+	url = https://github.com/libvips/libvips.git
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/DaveGamble/cJSON.git
